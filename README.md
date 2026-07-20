@@ -18,7 +18,7 @@
 
 The **Library Management System** is a comprehensive C++ application that allows users to manage a library's collection of books. It provides features for adding, editing, deleting, searching, and tracking borrowed books with persistent file storage.
 
-> **توجه:** این پروژه یک تمرین آموزشی برای یادگیری مفاهیم پیشرفته C++ است و رابط کاربری آن به زبان فارسی طراحی شده است.
+> **Note:** This project is an educational exercise designed to help learners understand advanced C++ concepts. Its user interface (UI) is designed in Persian (Farsi).
 
 ---
 
